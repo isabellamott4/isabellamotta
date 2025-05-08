@@ -1,4 +1,4 @@
-<p align="left">Hi 👋, I'm Isabella <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="50">&nbsp; <\p>
+<p align="left">Hi 👋, I'm Isabella <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="50">&nbsp; 
 
 ### 🔍 About me:
 I'm a 19-year-old Information Systems student living in Rio de Janeiro, Brazil. I'm passionate about cinema, design, art, music, and, of course, technology. I aspire to become a full-stack developer and contribute to innovative projects that especially demand creativity, teamwork, and technical knowledge.
